@@ -1,0 +1,17 @@
+﻿1) dans les template, faut que la date sois automatique
+2) Dans la class ReportCreator: - il faut filer les valeurs de la datatable pour le nombre de row DONE
+								- il faut filer la liste de prix     DONE
+								- il faut filer le nom du document   DONE
+3) Mettre la table read only sauf les physical personnes
+4) reprendre que les colonnes pertiantes.
+5) Mettre un petit explicatif step by step.
+6) Renommer le ficher xlsm
+
+Question à poser: Est-ce qu'il y a une differenciation entre les nom des docu physiques et morale?
+
+Bug: 
+1) Erreur dans eau chaude rent price (bat 004622) DONE 
+2) revoir la quantité des eau froide (bat 004622) DONE
+
+
+

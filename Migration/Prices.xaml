@@ -1,0 +1,37 @@
+﻿<Window x:Class="Ista.Migration.Prices"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Prices" Height="750" Width="1000" Loaded="Window_Loaded">
+    <Window.Resources>
+        <XmlDataProvider x:Key="xmlfile" x:Name="xmlFileProvider" XPath="ListeDePrix/Articles"/>
+    </Window.Resources>
+    <Grid>
+        <StackPanel ScrollViewer.VerticalScrollBarVisibility="Visible" >
+            <DataGrid AutoGenerateColumns="False" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                <DataGrid.Resources>
+                    <CollectionViewSource x:Key="items" Source="{Binding Source={StaticResource xmlfile}}">
+                        <!--<CollectionViewSource.GroupDescriptions>
+                            <PropertyGroupDescription PropertyName="@value" />
+                        </CollectionViewSource.GroupDescriptions>-->
+                    </CollectionViewSource>
+                </DataGrid.Resources>
+                <DataGrid.ItemsSource>
+                    <Binding Source="{StaticResource items}"/>
+                </DataGrid.ItemsSource>
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding XPath=@ID, Mode=TwoWay}" Header="ID" Visibility="Hidden"/>
+                    <DataGridTextColumn Binding="{Binding XPath=@nom, Mode=TwoWay}" Header="nom"/>
+                    <DataGridTextColumn Binding="{Binding XPath=@value, Mode=TwoWay}" Header="value" x:Name="valueBox"/>
+                    <DataGridTextColumn Binding="{Binding XPath=@releve, Mode=TwoWay}" Header="relevé"/>
+                    <DataGridTextColumn Binding="{Binding XPath=@vente, Mode=TwoWay}" Header="vente"/>
+                    <DataGridTextColumn Binding="{Binding XPath=@locationMax15, Mode=TwoWay}" Header="locationMax15"/>
+                </DataGrid.Columns>
+                <DataGrid.GroupStyle>
+                    <GroupStyle />
+                </DataGrid.GroupStyle>
+            </DataGrid>
+
+            <Button Name="btnSave" Content="Save" Click="btnSave_Click" HorizontalAlignment="Right" Width="75" Height="30"  />
+        </StackPanel>
+    </Grid>
+</Window>

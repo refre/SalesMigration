@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migration", "Migration\Migration.csproj", "{61D2CEFD-5B42-49EB-A355-6ED562189233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessExcel", "ProcessExcel\ProcessExcel.csproj", "{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://10.49.120.20:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Migration\\Migration.csproj
+		SccProjectName1 = Migration
+		SccLocalPath1 = Migration
+		SccProjectUniqueName2 = ProcessExcel\\ProcessExcel.csproj
+		SccProjectName2 = ProcessExcel
+		SccLocalPath2 = ProcessExcel
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Debug|x86.ActiveCfg = Debug|x86
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Debug|x86.Build.0 = Debug|x86
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Release|Any CPU.ActiveCfg = Release|x86
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Release|Mixed Platforms.Build.0 = Release|x86
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Release|x86.ActiveCfg = Release|x86
+		{61D2CEFD-5B42-49EB-A355-6ED562189233}.Release|x86.Build.0 = Release|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Debug|x86.ActiveCfg = Debug|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Debug|x86.Build.0 = Debug|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Release|Any CPU.ActiveCfg = Release|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Release|x86.ActiveCfg = Release|x86
+		{2E278B63-0AAB-47C5-BDD7-6B0A83D6850E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

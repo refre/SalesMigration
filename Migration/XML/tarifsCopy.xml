@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListeDePrix>
+  <!--<Articles ID="doprimoIII" nom="doprimo III">-->
+  <!--<Articles ID="doprimoIII" nom="doprimo III" value="15" releve="80,00" vente="33,66" locationMax15="8,62"/>
+  <Articles ID="doprimoIII" nom="doprimo III" value="50" vente="33,66" releve="5,57" locationMax15="8,62"/>
+  <Articles ID="doprimoIII" nom="doprimo III" value="250" vente="27,00" releve="4,30" locationMax15="6,93"/>
+  <Articles ID="doprimoIII" nom="doprimo III" value="251" vente="19,00" releve="3,12" locationMax15="5,39"/>-->
+  <!--</Articles>-->
+  <!--<Articles ID="doprimoIIIs" nom="doprimo III + s">-->
+  <!--<Articles ID="doprimoIIIs" nom="doprimo III + s" value="15" releve="80,00" vente="35,55" locationMax15="10,75"/>
+  <Articles ID="doprimoIIIs" nom="doprimo III + s" value="50" vente="35,55" releve="5,57" locationMax15="10,75"/>
+  <Articles ID="doprimoIIIs" nom="doprimo III + s" value="250" vente="31,84" releve="4,30" locationMax15="8,58"/>
+  <Articles ID="doprimoIIIs" nom="doprimo III + s" value="251" vente="26,95" releve="3,12" locationMax15="6,62"/>-->
+  <!--</Articles>-->
+  <!--<Articles ID="doprimoIIIRadio" nom="doprimo III Radio">-->
+  <Articles ID="doprimoIIIRadio" nom="doprimo III Radio" value="8" releve="80,00" vente="40,29" locationMax15="15,54"/>
+  <Articles ID="doprimoIIIRadio" nom="doprimo III Radio" value="12" releve="80,00" vente="40,29" locationMax15="12,95"/>
+  <Articles ID="doprimoIIIRadio" nom="doprimo III Radio" value="15" releve="80,00" vente="40,29" locationMax15="10,36"/>
+  <Articles ID="doprimoIIIRadio" nom="doprimo III Radio" value="50" vente="40,29" releve="5,36" locationMax15="10,36"/>
+  <Articles ID="doprimoIIIRadio" nom="doprimo III Radio" value="250" vente="32,50" releve="4,13" locationMax15="7,95"/>
+  <Articles ID="doprimoIIIRadio" nom="doprimo III Radio" value="251" vente="23,50" releve="3,00" locationMax15="6,15"/>
+  <!--</Articles>-->
+  <!--<Articles ID="doprimoIIIRs" nom="doprimo III R + s">-->
+  <Articles ID="doprimoIIIRs" nom="doprimo III R + s" value="8" releve="80,00" vente="50,74" locationMax15="18,28"/>
+  <Articles ID="doprimoIIIRs" nom="doprimo III R + s" value="12" releve="80,00" vente="50,74" locationMax15="15,23"/>
+  <Articles ID="doprimoIIIRs" nom="doprimo III R + s" value="15" releve="80,00" vente="50,74" locationMax15="12,19"/>
+  <Articles ID="doprimoIIIRs" nom="doprimo III R + s" value="50" vente="50,74" releve="5,36" locationMax15="12,19"/>
+  <Articles ID="doprimoIIIRs" nom="doprimo III R + s" value="250" vente="41,45" releve="4,13" locationMax15="9,71"/>
+  <Articles ID="doprimoIIIRs" nom="doprimo III R + s" value="251" vente="33,18" releve="3,00" locationMax15="7,47"/>
+  <!--</Articles>-->
+  <!--<Articles ID="domaqua" nom="domaqua">-->
+  <!--<Articles ID="domaqua" nom="domaqua" value="15" releve="80,00" vente="34,79" locationMax15="13,94"/>
+  <Articles ID="domaqua" nom="domaqua" value="50" vente="34,79" releve="3,59" locationMax15="13,94"/>
+  <Articles ID="domaqua" nom="domaqua" value="250" vente="30,07" releve="3,46" locationMax15="12,42"/>
+  <Articles ID="domaqua" nom="domaqua" value="251" vente="26,03" releve="3,46" locationMax15="11,18"/>-->
+  <!--</Articles>-->
+  <!--<Articles ID="domaquaRadio" nom="domaqua radio">-->
+  <Articles ID="domaquaRadio" nom="domaqua radio" value="15" releve="80,00" vente="69,49" locationMax15="19,99"/>
+  <Articles ID="domaquaRadio" nom="domaqua radio" value="50" vente="69,49" releve="3,59" locationMax15="18,99"/>
+  <Articles ID="domaquaRadio" nom="domaqua radio" value="250" vente="59,5" releve="3,46" locationMax15="16,62"/>
+  <Articles ID="domaquaRadio" nom="domaqua radio" value="251" vente="50,17" releve="3,46" locationMax15="14,63"/>
+  <!--</Articles>-->
+  <!--<Articles ID="sensonicII1_2" nom="sensonic II 1/2">-->
+  <!--<Articles ID="sensonicII1_2" nom="sensonic II 1/2" value="2" releve="80,00" vente="231,25" locationMax15="39,78"/>
+  <Articles ID="sensonicII1_2" nom="sensonic II 1/2" value="50" vente="231,25" releve="19,09" locationMax15="39,78"/>
+  <Articles ID="sensonicII1_2" nom="sensonic II 1/2" value="250" vente="179,92" releve="15,60" locationMax15="35,00"/>
+  <Articles ID="sensonicII1_2" nom="sensonic II 1/2" value="251" vente="131,04" releve="12,48" locationMax15="24,00"/>-->
+  <!--</Articles>-->
+  <!--<Articles ID="sensonicII3_4" nom="sensonic II 3/4">-->
+  <!--<Articles ID="sensonicII3_4" nom="sensonic II 3/4" value="2" releve="80,00" vente="264,14" locationMax15="39,78"/>
+  <Articles ID="sensonicII3_4" nom="sensonic II 3/4" value="50" vente="264,14" releve="19,09" locationMax15="39,78"/>
+  <Articles ID="sensonicII3_4" nom="sensonic II 3/4" value="250" vente="206,44" releve="15,60" locationMax15="35,00"/>
+  <Articles ID="sensonicII3_4" nom="sensonic II 3/4" value="251" vente="164,32" releve="12,48" locationMax15="24,00"/>-->
+  <!--</Articles>-->
+  <!--<Articles ID="sensonicRadio" nom="sensonic Radio">-->
+  <Articles ID="sensonicRadio1_2" nom="sensonic Radio 1/2" value="2" releve="80,00" vente="287,46" locationMax15="47,81"/>
+  <Articles ID="sensonicRadio1_2" nom="sensonic Radio 1/2" value="50" vente="287,46" releve="19,09" locationMax15="47,81"/>
+  <Articles ID="sensonicRadio1_2" nom="sensonic Radio 1/2" value="250" vente="226,55" releve="15,60" locationMax15="41,53"/>
+  <Articles ID="sensonicRadio1_2" nom="sensonic Radio 1/2" value="251" vente="168,1" releve="12,48" locationMax15="29,19"/>
+  <!--</Articles>-->
+  <!--<Articles ID="sensonicRadio" nom="sensonic Radio">-->
+  <Articles ID="sensonicRadio3_4" nom="sensonic Radio 3/4" value="2" releve="80,00" vente="320,35" locationMax15="47,81"/>
+  <Articles ID="sensonicRadio3_4" nom="sensonic Radio 3/4" value="50" vente="320,35" releve="19,09" locationMax15="47,81"/>
+  <Articles ID="sensonicRadio3_4" nom="sensonic Radio 3/4" value="250" vente="253,07" releve="15,60" locationMax15="41,53"/>
+  <Articles ID="sensonicRadio3_4" nom="sensonic Radio 3/4" value="251" vente="201,38" releve="12,48" locationMax15="29,19"/>
+
+  <!--<Articles ID="RadioModuleVM" nom="Radio Module VM">-->
+  <Articles ID="RadioModuleVM" nom="Radio Module VM" value="50" vente="34,70" releve="0" locationMax15="4,95"/>
+  <Articles ID="RadioModuleVM" nom="Radio Module VM" value="250" vente="29,43" releve="0" locationMax15="4,20"/>
+  <Articles ID="RadioModuleVM" nom="Radio Module VM" value="251" vente="24,15" releve="0" locationMax15="3,45"/>
+  <!--</Articles>-->
+  <!--<Articles ID="RadioModulesensil" nom="Radio Module sensil">-->
+  <Articles ID="RadioModulesensil" nom="Radio Module sensil" value="50" vente="56,21" releve="0" locationMax15="7,87"/>
+  <Articles ID="RadioModulesensil" nom="Radio Module sensil" value="250" vente="46,63" releve="0" locationMax15="6,53"/>
+  <Articles ID="RadioModulesensil" nom="Radio Module sensil" value="251" vente="37,06" releve="0" locationMax15="5,19"/>
+  <!--</Articles>-->
+</ListeDePrix>

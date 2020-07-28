@@ -1,0 +1,9 @@
+﻿<Window x:Class="Ista.Migration.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="750" Width="1000">
+    <StackPanel>
+        <Image Height="51" Width="112" HorizontalAlignment="Right"  x:Name="image1" Stretch="None" VerticalAlignment="Top"  Source="/Migration;component/Images/IstaLogo.png" />
+        
+    </StackPanel>
+</Window>

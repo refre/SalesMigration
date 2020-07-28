@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ista.Migration.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PathPhysFrTemplate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Files\Template-PersonnePhysiqueIndiceFR.docx</Value>
+    </Setting>
+    <Setting Name="PathPhysNlTemplate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Files\Template-PersonnePhysiqueIndiceNL.docx</Value>
+    </Setting>
+    <Setting Name="PathMoraFrTemplate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Files\Template-PersonneMoraleSansIndiceFR.docx</Value>
+    </Setting>
+    <Setting Name="PathMoraNlTemplate" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Files\Template-PersonneMoraleSansIndiceNL.docx</Value>
+    </Setting>
+    <Setting Name="ResultPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Result\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

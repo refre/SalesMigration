@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListeDePrix>
+  <Articles ID="doprimoIII" nom="doprimo III">
+    <max value="15" releve="80.00" vente="0" locationMax15="0"/>
+    <max value="50" vente="33.66" releve="5.57" locationMax15="8.62"/>
+    <max value="250" vente="27.00" releve="4.30" locationMax15="6.93"/>
+    <max value="251" vente="19.00" releve="3.12" locationMax15="5.39"/>  
+  </Articles>
+  <Articles ID="doprimoIIIs" nom="doprimo III + s">
+    <max value="15" releve="80.00" vente="0" locationMax15="0"/>
+    <max value="50" vente="35.55" releve="5.57" locationMax15="10.75"/>
+    <max value="250" vente="31.84" releve="4.30" locationMax15="8.58"/>
+    <max value="251" vente="26.95" releve="3.12" locationMax15="6.62"/>
+  </Articles>
+  <Articles ID="doprimoIIIRadio" nom="doprimo III Radio">
+    <max value="15" releve="80.00" vente="0" locationMax15="0"/>
+    <max value="50" vente="40.29" releve="5.36" locationMax15="9.96"/>
+    <max value="250" vente="32.50" releve="4.13" locationMax15="7.95"/>
+    <max value="251" vente="23.50" releve="3.00" locationMax15="6.15"/>
+  </Articles>
+  <Articles ID="doprimoIIIRs" nom="doprimo III R + s">
+    <max value="15" releve="80.00" vente="0" locationMax15="0"/>
+    <max value="50" vente="50.74" releve="5.36" locationMax15="12.19"/>
+    <max value="250" vente="41.45" releve="4.13" locationMax15="9.71"/>
+    <max value="251" vente="33.18" releve="3.00" locationMax15="7.47"/>   
+  </Articles>
+  <Articles ID="domaqua" nom="domaqua">
+    <max value="15" releve="80.00" vente="0" locationMax15="0"/>
+    <max value="50" vente="34.79" releve="3.59" locationMax15="13.94"/>
+    <max value="250" vente="30.07" releve="3.46" locationMax15="12.42"/>
+    <max value="251" vente="26.03" releve="3.46" locationMax15="11.18"/>
+  </Articles>
+  <Articles ID="domaquaRadio" nom="domaqua radio">
+    <max value="15" releve="80.00" vente="0" locationMax15="0"/>
+    <max value="50" vente="0" releve="3.59" locationMax15="18.99"/>
+    <max value="250" vente="0" releve="3.46" locationMax15="16.62"/>
+    <max value="251" vente="0" releve="3.46" locationMax15="14.63"/>
+  </Articles>
+  <Articles ID="sensonicII1_2" nom="sensonic II 1/2">
+    <max value="15" releve="80.00" vente="0" locationMax15="0"/>
+    <max value="50" vente="231.25" releve="19.09" locationMax15="39.78"/>
+    <max value="250" vente="179.92" releve="15.60" locationMax15="35.00"/>
+    <max value="251" vente="131.04" releve="12.48" locationMax15="24.00"/>
+  </Articles>
+  <Articles ID="sensonicII3_4" nom="sensonic II 3/4">
+    <max value="50" vente="264.14" releve="19.09" locationMax15="39.78"/>
+    <max value="250" vente="206.44" releve="15.60" locationMax15="35.00"/>
+    <max value="251" vente="164.32" releve="12.48" locationMax15="24.00"/>
+  </Articles>
+  <Articles ID="sensonicRadio" nom="sensonic Radio">
+    <max value="50" vente="0" releve="19.09" locationMax15="47.81"/>
+    <max value="250" vente="0" releve="15.60" locationMax15="35.00"/>
+    <max value="251" vente="0" releve="12.48" locationMax15="24.00"/>
+  </Articles>
+  <Articles ID="RadioModuleVM" nom="Radio Module VM">
+    <max value="50" vente="34.70" releve="0" locationMax15="4.95"/>
+    <max value="250" vente="29.43" releve="0" locationMax15="4.20"/>
+    <max value="251" vente="24.15" releve="0" locationMax15="3.45"/>
+  </Articles>
+  <Articles ID="RadioModulesensil" nom="Radio Module sensil">
+    <max value="50" vente="56.21" releve="0" locationMax15="7.87"/>
+    <max value="250" vente="46.63" releve="0" locationMax15="6.53"/>
+    <max value="251" vente="37.06" releve="0" locationMax15="5.19"/>
+  </Articles>
+</ListeDePrix>
